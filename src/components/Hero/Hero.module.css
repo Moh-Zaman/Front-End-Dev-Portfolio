@@ -30,7 +30,7 @@
     rgba(255, 255, 255, 0) 120%
   );
   -webkit-text-fill-color: transparent;
-  /* -webkit-background-clip: text; */
+  -webkit-background-clip: text;
 }
 
 .description {
