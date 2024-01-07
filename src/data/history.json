@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Configuration Analyst",
+      "organisation": "CoreStream",
+      "startDate": "July, 2023",
+      "endDate": "Present",
+      "experiences": ["Showcasing strong system architechture", "Collaborated to gather client specs"],
+      "imageSrc": "history/cs.png"
+    },
+    {
+      "role": "MSci Researcher",
+      "organisation": "QMUL",
+      "startDate": "Sep, 2022",
+      "endDate": "Jun, 2023",
+      "experiences": ["Conducted Gene modification", "Standardising independent experiments"],
+      "imageSrc": "history/qmul.png"
+    },
+    {
+      "role": "SCP Consultant",
+      "organisation": "Touchlight",
+      "startDate": "Nov 2022",
+      "endDate": "Feb, 2023",
+      "experiences": [
+        "Provided Successful strategic guidance",
+        "Innovatived solutions for biotech challenges"
+      ],
+      "imageSrc": "history/tl.png"
+    }
+  ]
