@@ -1,5 +1,5 @@
 {
-  "name": "front-end-dev-portfolio",
+  "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/outfit": "^5.0.8",
+    "@fontsource/roboto": "^5.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
