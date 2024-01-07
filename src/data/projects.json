@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "MuiscMap",
+      "imageSrc": "projects/mm.png",
+      "description": "This project allows music lovers to see upcoming events and buy tickets.",
+      "skills": ["API", "JS", "Frameworks"],
+      "demo": "https://satsumasegment.github.io/MusicMap/",
+      "source": "https://github.com/SatsumaSegment/MusicMap"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Travel Weather Planner",
+      "imageSrc": "projects/wd.png",
+      "description": "This project allows travellers to plan according to the weather.",
+      "skills": ["HTML", "CSS", "API", "JS"],
+      "demo": "https://moh-zaman.github.io/Weather-Dashboard/",
+      "source": "https://github.com/Moh-Zaman/Weather-Dashboard"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Team Portfolio Generator",
+      "imageSrc": "projects/tp.png",
+      "description": "This is an application that allows a portfolio to be generated through CLI inputs.",
+      "skills": ["JS", "CLI", "JSON"],
+      "demo": "https://github.com/Moh-Zaman/Team-Profile-Generator",
+      "source": "https://github.com/Moh-Zaman/Team-Profile-Generator"
     }
   ]
