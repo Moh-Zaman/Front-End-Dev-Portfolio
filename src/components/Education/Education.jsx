@@ -56,7 +56,7 @@ export const Education = () => {
               </p>
             </div>
           </li>
-          <a type="submit" onClick={()=>window.open('src/assets/education/Moh-Zaman-CV.pdf')} className={styles.contactBtn}>
+          <a type="submit" onClick={()=>window.open('dist/assets/moh-zaman-cv-dc8f987b.pdf')} className={styles.contactBtn}>
             View CV
           </a>
         </ul>
