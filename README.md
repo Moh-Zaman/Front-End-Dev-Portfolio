@@ -6,7 +6,7 @@ This is a web application portfolio of my projects and experiences.
 
 ## Usage
 
-The Portfolio can be accessed here: https://main--moh-zaman-portfolio.netlify.app
+The Portfolio can be accessed here: https://moh-zaman-portfolio.netlify.app
    
 ## Credits
 
