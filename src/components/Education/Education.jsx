@@ -10,7 +10,7 @@ export const Education = () => {
       <div className={styles.content}>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("education/fe.png")} alt="Cursor icon" />
+            <img src={getImageUrl("education/fe.png")} alt="Front-End Dev" className={styles.EducationImg}/>
             <div className={styles.aboutItemText}>
               <h3>EdX</h3>
               <h3>Front-End Developer</h3>
@@ -20,7 +20,7 @@ export const Education = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("education/py.png")} alt="Server icon" />
+            <img src={getImageUrl("education/py.png")} alt="Python" className={styles.EducationImg}/>
             <div className={styles.aboutItemText}>
               <h3>Brain Station</h3>
               <h3>Data Science</h3>
@@ -32,7 +32,7 @@ export const Education = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("education/uni.png")} alt="UI icon" />
+            <img src={getImageUrl("education/uni.png")} alt="University" className={styles.EducationImg}/>
             <div className={styles.aboutItemText}>
               <h3>Queen Mary's University of London</h3>
               <h3>First Class Honours MSci Biochemistry</h3>
