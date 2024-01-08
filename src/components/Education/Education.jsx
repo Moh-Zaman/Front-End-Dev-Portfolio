@@ -56,7 +56,7 @@ export const Education = () => {
               </p>
             </div>
           </li>
-          <a type="submit" onClick={()=>window.open('dist/assets/moh-zaman-cv-dc8f987b.pdf')} className={styles.contactBtn}>
+          <a href="https://drive.google.com/file/d/1lYUnX6uErGZmHu2doqWwQ42zOf8z9ZOx/view?usp=sharing" className={styles.contactBtn}>
             View CV
           </a>
         </ul>
