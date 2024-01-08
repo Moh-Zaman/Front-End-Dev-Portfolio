@@ -1,6 +1,6 @@
 [
     {
-      "title": "MuiscMap",
+      "title": "MusicMap",
       "imageSrc": "projects/mm.png",
       "description": "This project allows music lovers to see upcoming events and buy tickets.",
       "skills": ["API", "JS", "Frameworks"],
