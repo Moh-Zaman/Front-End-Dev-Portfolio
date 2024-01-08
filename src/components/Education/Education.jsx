@@ -56,7 +56,7 @@ export const Education = () => {
               </p>
             </div>
           </li>
-          <a href="src\data\Moh-Zaman-CV.pdf" download="" className={styles.contactBtn}>
+          <a href="src/assets/education/Moh-Zaman-CV.pdf" download="" className={styles.contactBtn}>
             View CV
           </a>
         </ul>
